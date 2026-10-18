@@ -53,7 +53,7 @@ These findings describe patterns in the dataset; they do not establish the under
 
 ## How to Use
 
-1. 1. Download [Sales-Profitability-Dashboard.pbix](Sales-Profitability-Dashboard.pbix) from this repository.
+1. Download [Sales-Profitability-Dashboard.pbix](Sales-Profitability-Dashboard.pbix) from this repository.
 2. Open the file using Power BI Desktop.
 3. Use the available filters to explore the data by country, year, quarter, month, and segment.
 
