@@ -39,7 +39,7 @@ An interactive Power BI dashboard built to analyze sales and profitability acros
 - Sales comparison by product.
 - Sales and profit comparison by country.
 - Country-level table with sales, profit, and profit margin.
-- Interactive filters for country, year, segment, and month.
+- Interactive filters for country, year, quarter, month, and segment.
 
 ## Key Findings
 
@@ -53,9 +53,9 @@ These findings describe patterns in the dataset; they do not establish the under
 
 ## How to Use
 
-1. Download `Sales-Profitability-Dashboard.pbix` from this repository.
+1. 1. Download [Sales-Profitability-Dashboard.pbix](Sales-Profitability-Dashboard.pbix) from this repository.
 2. Open the file using Power BI Desktop.
-3. Use the available filters to explore the data by country, year, segment, and month.
+3. Use the available filters to explore the data by country, year, quarter, month, and segment.
 
 ## Data Source
 
